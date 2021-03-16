@@ -1,6 +1,12 @@
- ###SPIDERWEEK###
+ **SPIDERWEEK**
  
- ![image](https://user-images.githubusercontent.com/55639421/111361866-ed414600-866c-11eb-861d-9aefdccbc8a9.png)
-
+ **PROJETO:**
+ Projeto voltado na experiência do usuário e com base na FrontWeek feita por Násser Yousef Ali.
+ 
+ **COMO RODAR:**
+ Faça o download da pasta no GitHub e abra o Index.html no seu navegador.
+ 
+ **PREVIEW:**
+ 
   
 
