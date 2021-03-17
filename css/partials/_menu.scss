@@ -88,19 +88,9 @@ li{
         display: none;
     }
 
-    svg{
+        img{
         cursor: pointer;
         margin-left: 16px;
-
-    path{
-        transition: .7s ease;
-    }
-
-        &:hover{
-            path{
-                fill: $red-light;
-            }
-        }
     }
 
 }
