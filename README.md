@@ -8,9 +8,9 @@
  
  <h2>PREVIEW:</h2>
  
- ![image](https://user-images.githubusercontent.com/55639421/111501133-77e47c80-8723-11eb-8128-f8866d2a296c.png)
+![image](https://user-images.githubusercontent.com/55639421/111501363-aeba9280-8723-11eb-9420-854b286888d4.png)
 
- ![image](https://user-images.githubusercontent.com/55639421/111501196-87fc5c00-8723-11eb-8b94-9d1dc4a0fe55.png)
+![image](https://user-images.githubusercontent.com/55639421/111501196-87fc5c00-8723-11eb-8b94-9d1dc4a0fe55.png)
 
   
 
